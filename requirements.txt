@@ -1,0 +1,8 @@
+aiofiles==22.1.0
+ckip_transformers==0.3.2
+CwnGraph==0.4.0
+CwnSenseTagger==0.1.6
+DistilTag==0.2.2
+matplotlib==3.5.3
+pandas==1.4.4
+streamlit==1.12.2
