@@ -6,3 +6,6 @@ messageFormat = "%(asctime)s  %(message)s"
 # Primary accent for interactive elements
 primaryColor = '#228be6'
 backgroundColor = 'rgb(255, 255, 255)'
+
+[server]
+headless = true
